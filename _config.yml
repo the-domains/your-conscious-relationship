@@ -1,4 +1,3 @@
-layout_spectrum: 0.26068859943188727
 typography_spectrum: 0.3320798077620566
 color:
   brandStrength: 0.42050231737084687
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.26068859943188727
 name: Your Conscious Relationship
+description: Applying the lessons of polyamory to all kinds of relationships
